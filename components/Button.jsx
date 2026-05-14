@@ -3,3 +3,5 @@ function Button({ text }) {
         <button type="submit">{text}</button>
     )
 }
+
+export default Button
