@@ -1,14 +1,7 @@
-import { useState } from 'react'
-
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
 import FormulariosDeCadastro from '../components/FormulariosDeCadastro'
-import Cabecalho from '../components/Cabecalho' 
+import Cabecalho from '../components/Cabecalho'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <h1>Hello, World!</h1>
